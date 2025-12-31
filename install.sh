@@ -6,3 +6,4 @@ stow lsd
 stow micro
 stow mpv
 stow nvim
+stow walker
