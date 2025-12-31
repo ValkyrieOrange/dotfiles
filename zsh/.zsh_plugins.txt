@@ -1,0 +1,19 @@
+# Load first
+mattmc3/ez-compinit
+
+getantidote/use-omz
+ohmyzsh/ohmyzsh path:lib
+ohmyzsh/ohmyzsh path:plugins/colored-man-pages
+wintermi/zsh-lsd
+romkatv/powerlevel10k
+tolkonepiu/catppuccin-powerlevel10k-themes
+chisui/zsh-nix-shell
+
+# Completions
+zsh-users/zsh-completions
+unixorn/1password-op.plugin.zsh
+sinetoami/antibody-completion
+
+# Load last
+zsh-users/zsh-syntax-highlighting
+zsh-users/zsh-history-substring-search
