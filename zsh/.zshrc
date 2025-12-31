@@ -14,7 +14,7 @@ bindkey -e
 export "MICRO_TRUECOLOR=1"
 
 # zsh-syntax-highlighting catppuccin theme
-source ~/.config/catppuccin_mocha-zsh-syntax-highlighting.zsh
+source ~/.zsh/catppuccin_mocha-zsh-syntax-highlighting.zsh
 
 # Source antidote
 source ${ZDOTDIR:-~}/.antidote/antidote.zsh
