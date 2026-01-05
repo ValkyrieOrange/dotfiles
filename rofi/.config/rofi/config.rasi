@@ -1,4 +1,3 @@
-@theme "catppuccin-default"
 configuration {
 /*	modes: "window,drun,run,ssh";*/
 font: "FiraCode Nerd Font 12";
@@ -167,3 +166,5 @@ font: "FiraCode Nerd Font 12";
       sorting-method:    "name";
   }
 }
+
+@theme "/home/valkyrieorange/.local/share/rofi/themes/spotlight-catppuccin-mocha-red.rasi"
